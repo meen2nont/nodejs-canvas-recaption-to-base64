@@ -1,4 +1,4 @@
-# nodjs-canvas-recaption-to-base64
+# nodejs-canvas-recaption-to-base64
 
 Install NodeJS
 
